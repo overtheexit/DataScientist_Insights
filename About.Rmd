@@ -1,0 +1,37 @@
+---
+title: "About"
+author: "Yoon Lee"
+date: "2023-02-04"
+output: html_document
+---
+
+## Author
+
+-   **Name**: Yoon Lee
+-   **Email**: [yoonseo2@illinois.edu](mailto:yoonseo2@illinois.edu)
+
+## Data
+
+In this data set there are **23** variables in total.
+
+Here's a description for each variables
+
+-   **index**: index of data points
+
+-   **Rating**: Glassdoor rating of the compan
+
+-   **Size**: Employee head count of the company
+
+-   **Sector**: Sector that the company is performing at
+
+-   **Revenue**: Revenue range of the company
+
+-   **avgsalary**: Average salary received for a given role at a given company (unit: \$1,000s)
+
+-   **location**: Location of the given job
+
+-   **list of tech requirements at the company**: (Python spark aws excel sql sas keras pytorch scikit tensor hadoop tableau bi flink mongo google_an)
+
+## References
+
+-   [Kaggle datasets](https://www.kaggle.com/datasets/nikhilbhathi/data-scientist-salary-us-glassdoor)
